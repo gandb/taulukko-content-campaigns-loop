@@ -1,0 +1,8 @@
+2024/01/26-08:08:57.533 51f0 Recovering log #12
+2024/01/26-08:08:57.542 51f0 Delete type=0 #12
+2024/01/26-08:08:57.542 51f0 Delete type=3 #10
+2024/01/26-08:11:01.191 9a0c Level-0 table #17: started
+2024/01/26-08:11:01.191 9a0c Level-0 table #17: 0 bytes OK
+2024/01/26-08:11:01.194 9a0c Delete type=0 #15
+2024/01/26-08:11:01.197 9a0c Manual compaction at level-0 from '!messages!CSavftAW59zrtfaL' @ 72057594037927935 : 1 .. '!messages!gmiX2c57pvYSOqzK' @ 0 : 0; will stop at (end)
+2024/01/26-08:11:01.197 9a0c Manual compaction at level-1 from '!messages!CSavftAW59zrtfaL' @ 72057594037927935 : 1 .. '!messages!gmiX2c57pvYSOqzK' @ 0 : 0; will stop at (end)

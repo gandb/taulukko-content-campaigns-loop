@@ -1,0 +1,16 @@
+{
+  "title": "After Time",
+  "id": "after-time",
+  "system": "fate-core-official",
+  "joinTheme": "default",
+  "description": "<p>Tudo começa num jantar no ano de 1892…</p>",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "4.6.1",
+  "lastPlayed": "Fri Jan 26 2024 08:11:32 GMT+0000 (Horário Padrão da Europa Ocidental)",
+  "playtime": 91717,
+  "background": "worlds/after-time/data/images/cover-after-time.png"
+}
