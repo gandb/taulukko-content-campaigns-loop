@@ -1,16 +1,31 @@
 {
-  "title": "After Time",
-  "id": "after-time",
+  "title": "Loop",
+  "id": "loop",
   "system": "fate-core-official",
   "joinTheme": "default",
-  "description": "<p>Tudo começa num jantar no ano de 1892…</p>",
   "coreVersion": "11.315",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
-  "systemVersion": "4.6.1",
-  "lastPlayed": "Fri Jan 26 2024 08:11:32 GMT+0000 (Horário Padrão da Europa Ocidental)",
-  "playtime": 91717,
-  "background": "worlds/after-time/data/images/cover-after-time.png"
+  "systemVersion": "4.6.2",
+  "lastPlayed": "Tue Feb 13 2024 10:56:48 GMT+0000 (Horário Padrão da Europa Ocidental)",
+  "background": "worlds/loop/images/20240126-cover-loop.png",
+  "playtime": 152135,
+  "description": "<p>Três épocas, três pessoas e um destino.</p>",
+  "nextSession": "2024-02-10T16:57:00.000Z",
+  "packs": [
+    {
+      "label": "Heróis",
+      "type": "Actor",
+      "name": "herois",
+      "path": "packs/herois",
+      "system": "fate-core-official",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
 }

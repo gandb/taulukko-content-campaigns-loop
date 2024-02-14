@@ -1,7 +1,17 @@
-2024/01/26-08:11:06.741 51f0 Recovering log #16
-2024/01/26-08:11:06.746 51f0 Delete type=0 #16
-2024/01/26-08:11:06.746 51f0 Delete type=3 #14
-2024/01/26-08:11:32.298 9a0c Level-0 table #21: started
-2024/01/26-08:11:32.300 9a0c Level-0 table #21: 0 bytes OK
-2024/01/26-08:11:32.303 9a0c Delete type=0 #19
-2024/01/26-08:11:32.309 9a0c Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2024/02/13-10:56:47.903 470 Recovering log #55
+2024/02/13-10:56:47.915 470 Level-0 table #57: started
+2024/02/13-10:56:47.970 470 Level-0 table #57: 1104725 bytes OK
+2024/02/13-10:56:47.977 470 Delete type=0 #55
+2024/02/13-10:56:47.981 470 Delete type=3 #53
+2024/02/13-10:56:47.982 65bc Compacting 4@0 + 1@1 files
+2024/02/13-10:56:48.057 65bc Generated table #59@0: 8 keys, 29812 bytes
+2024/02/13-10:56:48.057 65bc Compacted 4@0 + 1@1 files => 29812 bytes
+2024/02/13-10:56:48.059 65bc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/13-10:56:48.059 65bc Delete type=2 #44
+2024/02/13-10:56:48.059 65bc Delete type=2 #46
+2024/02/13-10:56:48.060 65bc Delete type=2 #49
+2024/02/13-10:56:48.061 65bc Delete type=2 #54
+2024/02/13-10:56:48.063 65bc Delete type=2 #57
+2024/02/13-19:55:02.032 65bc Level-0 table #61: started
+2024/02/13-19:55:02.114 65bc Level-0 table #61: 2039548 bytes OK
+2024/02/13-19:55:02.116 65bc Delete type=0 #58
