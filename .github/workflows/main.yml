@@ -3,10 +3,11 @@ name: Release Creation
 on:
   release:
     types: [published]
-
+permissions:
+  contents: write
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest 
     steps:
       - uses: actions/checkout@v2
 
@@ -31,10 +32,7 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true # Set this to false if you want to prevent updating existing releases
-          name: ${{ github.event.release.name }}
-          draft: false
-          prerelease: false
+          makeLatest: true
           token: ${{ secrets.GITHUB_TOKEN }}
-          artifacts: './world.json, ./world.zip'
-          tag: ${{ github.event.release.tag_name }}
+          artifacts: './world.json, ./world.zip' 
           body: ${{ github.event.release.body }}
