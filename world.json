@@ -13,7 +13,10 @@
   "background": "worlds/loop/images/20240126-cover-loop.png",
   "playtime": 152135,
   "description": "<p>Três épocas, três pessoas e um destino.</p>",
-  "nextSession": "2024-02-10T16:57:00.000Z",
+  "manifest": "https://github.com/gandb/taulukko-content-campaigns-loop/main/world.json",
+  "download": "https://github.com/gandb/taulukko-content-campaigns-loop/zip/master",
+  "url":"https://github.com/gandb/taulukko-content-campaigns-loop",
+  "version":"1.0.0",
   "packs": [
     {
       "label": "Heróis",
