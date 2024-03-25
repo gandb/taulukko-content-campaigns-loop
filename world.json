@@ -8,15 +8,15 @@
     "minimum": "11",
     "verified": "11"
   },
-  "systemVersion": "4.6.2",
-  "lastPlayed": "Tue Feb 13 2024 10:56:48 GMT+0000 (Horário Padrão da Europa Ocidental)",
+  "systemVersion": "4.6.7",
+  "lastPlayed": "Mon Mar 25 2024 09:44:12 GMT+0000 (Horário Padrão da Europa Ocidental)",
   "background": "worlds/loop/images/20240126-cover-loop.png",
-  "playtime": 152135,
+  "playtime": 152905,
   "description": "<p>Três épocas, três pessoas e um destino.</p>",
   "manifest": "https://github.com/gandb/taulukko-content-campaigns-loop/main/world.json",
   "download": "https://github.com/gandb/taulukko-content-campaigns-loop/zip/master",
-  "url":"https://github.com/gandb/taulukko-content-campaigns-loop",
-  "version":"1.0.0",
+  "url": "https://github.com/gandb/taulukko-content-campaigns-loop",
+  "version": "1.0.0",
   "packs": [
     {
       "label": "Heróis",
@@ -29,6 +29,43 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
+    },
+    {
+      "label": "Aventura",
+      "type": "Adventure",
+      "name": "aventura",
+      "path": "packs/aventura",
+      "system": "fate-core-official",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.aventura",
+      "packageType": "world",
+      "packageName": "loop",
+      "index": [],
+      "folders": []
+    },
+    {
+      "label": "Mass Edit: Presets (MAIN)",
+      "type": "JournalEntry",
+      "ownership": {
+        "GAMEMASTER": "NONE",
+        "PLAYER": "NONE",
+        "ASSISTANT": "NONE"
+      },
+      "name": "mass-edit-presets-main",
+      "path": "packs/mass-edit-presets-main",
+      "system": "fate-core-official",
+      "flags": {},
+      "package": "world",
+      "id": "world.mass-edit-presets-main",
+      "packageType": "world",
+      "packageName": "loop",
+      "index": [],
+      "folders": []
     }
   ]
 }

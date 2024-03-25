@@ -1,5 +1,10 @@
-2024/02/13-10:56:48.326 470 Recovering log #65
-2024/02/13-10:56:48.327 470 Level-0 table #68: started
-2024/02/13-10:56:48.355 470 Level-0 table #68: 883 bytes OK
-2024/02/13-10:56:48.360 470 Delete type=0 #65
-2024/02/13-10:56:48.361 470 Delete type=3 #63
+2024/03/25-09:44:12.455 935c Delete type=3 #1
+2024/03/25-09:44:12.457 6acc Compacting 5@0 + 0@1 files
+2024/03/25-09:44:12.466 6acc Generated table #74@0: 26 keys, 8366 bytes
+2024/03/25-09:44:12.466 6acc Compacted 5@0 + 0@1 files => 8366 bytes
+2024/03/25-09:44:12.470 6acc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/03/25-09:44:12.471 6acc Delete type=2 #25
+2024/03/25-09:44:12.473 6acc Delete type=2 #38
+2024/03/25-09:44:12.474 6acc Delete type=2 #66
+2024/03/25-09:44:12.474 6acc Delete type=2 #68
+2024/03/25-09:44:12.474 6acc Delete type=2 #71

@@ -1,3 +1,6 @@
-2024/02/10-18:58:13.728 5504 Recovering log #13
-2024/02/10-18:58:13.734 5504 Delete type=0 #13
-2024/02/10-18:58:13.735 5504 Delete type=3 #12
+2024/03/25-09:44:12.789 9780 Log #17: 0 ops saved to Table #18 OK
+2024/03/25-09:44:12.791 9780 Archiving E:\Data\worlds\loop\packs\herois/000017.log: OK
+2024/03/25-09:44:12.798 9780 Table #5: 6 entries OK
+2024/03/25-09:44:12.809 9780 Table #8: 16 entries OK
+2024/03/25-09:44:12.821 9780 Archiving E:\Data\worlds\loop\packs\herois/MANIFEST-000016: OK
+2024/03/25-09:44:12.827 9780 **** Repaired leveldb E:\Data\worlds\loop\packs\herois; recovered 2 files; 123346 bytes. Some data may have been lost. ****

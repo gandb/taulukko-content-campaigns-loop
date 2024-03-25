@@ -1,5 +1,11 @@
-2024/02/10-18:58:13.378 5504 Recovering log #45
-2024/02/10-18:58:13.379 5504 Level-0 table #47: started
-2024/02/10-18:58:13.385 5504 Level-0 table #47: 30883 bytes OK
-2024/02/10-18:58:13.393 5504 Delete type=0 #45
-2024/02/10-18:58:13.393 5504 Delete type=3 #44
+2024/03/25-09:44:10.982 7888 Log #20: 0 ops saved to Table #51 OK
+2024/03/25-09:44:10.983 7888 Archiving E:/Data/worlds/loop/data/fog/000020.log: OK
+2024/03/25-09:44:11.059 7888 Log #50: 1 ops saved to Table #52 OK
+2024/03/25-09:44:11.060 7888 Archiving E:/Data/worlds/loop/data/fog/000050.log: OK
+2024/03/25-09:44:11.078 7888 Table #31: 1 entries OK
+2024/03/25-09:44:11.082 7888 Table #40: 8 entries OK
+2024/03/25-09:44:11.089 7888 Table #47: 2 entries OK
+2024/03/25-09:44:11.090 7888 Table #52: 1 entries OK
+2024/03/25-09:44:11.093 7888 Archiving E:/Data/worlds/loop/data/fog/MANIFEST-000018: OK
+2024/03/25-09:44:11.093 7888 Archiving E:/Data/worlds/loop/data/fog/MANIFEST-000049: OK
+2024/03/25-09:44:11.099 7888 **** Repaired leveldb E:/Data/worlds/loop/data/fog; recovered 4 files; 136371 bytes. Some data may have been lost. ****

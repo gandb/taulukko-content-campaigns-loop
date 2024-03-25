@@ -1,3 +1,7 @@
-2024/02/10-18:58:13.299 5504 Recovering log #43
-2024/02/10-18:58:13.303 5504 Delete type=0 #43
-2024/02/10-18:58:13.303 5504 Delete type=3 #42
+2024/03/25-09:44:10.611 7888 Log #20: 0 ops saved to Table #48 OK
+2024/03/25-09:44:10.612 7888 Archiving E:/Data/worlds/loop/data/cards/000020.log: OK
+2024/03/25-09:44:10.612 7888 Log #47: 0 ops saved to Table #49 OK
+2024/03/25-09:44:10.613 7888 Archiving E:/Data/worlds/loop/data/cards/000047.log: OK
+2024/03/25-09:44:10.616 7888 Archiving E:/Data/worlds/loop/data/cards/MANIFEST-000018: OK
+2024/03/25-09:44:10.616 7888 Archiving E:/Data/worlds/loop/data/cards/MANIFEST-000046: OK
+2024/03/25-09:44:10.619 7888 **** Repaired leveldb E:/Data/worlds/loop/data/cards; recovered 0 files; 0 bytes. Some data may have been lost. ****

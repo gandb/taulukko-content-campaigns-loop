@@ -1,3 +1,7 @@
-2024/02/10-18:58:13.425 5504 Recovering log #43
-2024/02/10-18:58:13.430 5504 Delete type=0 #43
-2024/02/10-18:58:13.430 5504 Delete type=3 #42
+2024/03/25-09:44:11.375 6160 Log #20: 0 ops saved to Table #48 OK
+2024/03/25-09:44:11.376 6160 Archiving E:/Data/worlds/loop/data/items/000020.log: OK
+2024/03/25-09:44:11.377 6160 Log #47: 0 ops saved to Table #49 OK
+2024/03/25-09:44:11.378 6160 Archiving E:/Data/worlds/loop/data/items/000047.log: OK
+2024/03/25-09:44:11.383 6160 Archiving E:/Data/worlds/loop/data/items/MANIFEST-000018: OK
+2024/03/25-09:44:11.385 6160 Archiving E:/Data/worlds/loop/data/items/MANIFEST-000046: OK
+2024/03/25-09:44:11.392 6160 **** Repaired leveldb E:/Data/worlds/loop/data/items; recovered 0 files; 0 bytes. Some data may have been lost. ****

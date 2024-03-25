@@ -1,3 +1,5 @@
-2024/02/13-10:56:47.299 5058 Recovering log #57
-2024/02/13-10:56:47.304 5058 Delete type=0 #57
-2024/02/13-10:56:47.304 5058 Delete type=3 #55
+2024/03/25-09:44:10.583 935c Delete type=3 #1
+2024/03/25-09:44:10.583 6acc Compacting 4@0 + 0@1 files
+2024/03/25-09:44:10.591 6acc Generated table #64@0: 15 keys, 46295 bytes
+2024/03/25-09:44:10.591 6acc Compacted 4@0 + 0@1 files => 46295 bytes
+2024/03/25-09:44:10.593 6acc compacted to: files[ 0 1 0 0 0 0 0 ]

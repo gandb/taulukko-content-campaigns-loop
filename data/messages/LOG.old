@@ -1,3 +1,12 @@
-2024/02/10-18:58:13.311 8990 Recovering log #50
-2024/02/10-18:58:13.320 8990 Delete type=0 #50
-2024/02/10-18:58:13.321 8990 Delete type=3 #49
+2024/03/25-09:44:10.666 9780 Log #20: 0 ops saved to Table #55 OK
+2024/03/25-09:44:10.666 9780 Archiving E:/Data/worlds/loop/data/messages/000020.log: OK
+2024/03/25-09:44:10.667 9780 Log #54: 0 ops saved to Table #56 OK
+2024/03/25-09:44:10.668 9780 Archiving E:/Data/worlds/loop/data/messages/000054.log: OK
+2024/03/25-09:44:10.690 9780 Table #5: 2 entries OK
+2024/03/25-09:44:10.705 9780 Table #11: 2 entries OK
+2024/03/25-09:44:10.723 9780 Table #32: 5 entries OK
+2024/03/25-09:44:10.741 9780 Table #36: 12 entries OK
+2024/03/25-09:44:10.756 9780 Table #45: 17 entries OK
+2024/03/25-09:44:10.765 9780 Archiving E:/Data/worlds/loop/data/messages/MANIFEST-000018: OK
+2024/03/25-09:44:10.766 9780 Archiving E:/Data/worlds/loop/data/messages/MANIFEST-000053: OK
+2024/03/25-09:44:10.772 9780 **** Repaired leveldb E:/Data/worlds/loop/data/messages; recovered 5 files; 8533 bytes. Some data may have been lost. ****
