@@ -1,11 +1,7 @@
-2024/03/25-09:44:11.194 9780 Log #20: 0 ops saved to Table #52 OK
-2024/03/25-09:44:11.197 9780 Archiving E:/Data/worlds/loop/data/folders/000020.log: OK
-2024/03/25-09:44:11.242 9780 Log #51: 1 ops saved to Table #53 OK
-2024/03/25-09:44:11.243 9780 Archiving E:/Data/worlds/loop/data/folders/000051.log: OK
-2024/03/25-09:44:11.260 9780 Table #19: 3 entries OK
-2024/03/25-09:44:11.278 9780 Table #39: 1 entries OK
-2024/03/25-09:44:11.295 9780 Table #42: 5 entries OK
-2024/03/25-09:44:11.295 9780 Table #53: 1 entries OK
-2024/03/25-09:44:11.307 9780 Archiving E:/Data/worlds/loop/data/folders/MANIFEST-000018: OK
-2024/03/25-09:44:11.308 9780 Archiving E:/Data/worlds/loop/data/folders/MANIFEST-000050: OK
-2024/03/25-09:44:11.312 9780 **** Repaired leveldb E:/Data/worlds/loop/data/folders; recovered 4 files; 1936 bytes. Some data may have been lost. ****
+2024/03/25-09:44:11.353 9780 Delete type=3 #1
+2024/03/25-09:44:11.354 6acc Compacting 2@0 + 0@1 files
+2024/03/25-09:44:11.457 6acc Generated table #56@0: 4 keys, 665 bytes
+2024/03/25-09:44:11.457 6acc Compacted 2@0 + 0@1 files => 665 bytes
+2024/03/25-09:44:11.459 6acc compacted to: files[ 2 1 0 0 0 0 0 ]
+2024/03/25-09:44:11.459 6acc Delete type=2 #42
+2024/03/25-09:44:11.460 6acc Delete type=2 #53

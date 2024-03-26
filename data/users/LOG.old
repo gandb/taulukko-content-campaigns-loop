@@ -1,10 +1,1 @@
-2024/03/25-09:44:12.493 9780 Log #20: 0 ops saved to Table #52 OK
-2024/03/25-09:44:12.495 9780 Archiving E:/Data/worlds/loop/data/users/000020.log: OK
-2024/03/25-09:44:12.496 9780 Log #51: 0 ops saved to Table #53 OK
-2024/03/25-09:44:12.497 9780 Archiving E:/Data/worlds/loop/data/users/000051.log: OK
-2024/03/25-09:44:12.523 9780 Table #5: 7 entries OK
-2024/03/25-09:44:12.544 9780 Table #20: 2 entries OK
-2024/03/25-09:44:12.568 9780 Table #42: 1 entries OK
-2024/03/25-09:44:12.575 9780 Archiving E:/Data/worlds/loop/data/users/MANIFEST-000018: OK
-2024/03/25-09:44:12.576 9780 Archiving E:/Data/worlds/loop/data/users/MANIFEST-000050: OK
-2024/03/25-09:44:12.581 9780 **** Repaired leveldb E:/Data/worlds/loop/data/users; recovered 3 files; 3912 bytes. Some data may have been lost. ****
+2024/03/25-09:44:12.621 9780 Delete type=3 #1

@@ -1,11 +1,5 @@
-2024/03/25-09:44:10.513 935c Log #20: 0 ops saved to Table #60 OK
-2024/03/25-09:44:10.514 935c Archiving E:/Data/worlds/loop/data/actors/000020.log: OK
-2024/03/25-09:44:10.539 935c Log #59: 33 ops saved to Table #61 OK
-2024/03/25-09:44:10.540 935c Archiving E:/Data/worlds/loop/data/actors/000059.log: OK
-2024/03/25-09:44:10.548 935c Table #5: 11 entries OK
-2024/03/25-09:44:10.550 935c Table #52: 8 entries OK
-2024/03/25-09:44:10.556 935c Table #56: 12 entries OK
-2024/03/25-09:44:10.557 935c Table #61: 33 entries OK
-2024/03/25-09:44:10.560 935c Archiving E:/Data/worlds/loop/data/actors/MANIFEST-000018: OK
-2024/03/25-09:44:10.560 935c Archiving E:/Data/worlds/loop/data/actors/MANIFEST-000058: OK
-2024/03/25-09:44:10.565 935c **** Repaired leveldb E:/Data/worlds/loop/data/actors; recovered 4 files; 176275 bytes. Some data may have been lost. ****
+2024/03/25-09:44:10.583 935c Delete type=3 #1
+2024/03/25-09:44:10.583 6acc Compacting 4@0 + 0@1 files
+2024/03/25-09:44:10.591 6acc Generated table #64@0: 15 keys, 46295 bytes
+2024/03/25-09:44:10.591 6acc Compacted 4@0 + 0@1 files => 46295 bytes
+2024/03/25-09:44:10.593 6acc compacted to: files[ 0 1 0 0 0 0 0 ]

@@ -1,10 +1,1 @@
-2024/03/25-09:44:11.483 935c Log #20: 0 ops saved to Table #62 OK
-2024/03/25-09:44:11.484 935c Archiving E:/Data/worlds/loop/data/journal/000020.log: OK
-2024/03/25-09:44:11.611 935c Log #60: 40 ops saved to Table #63 OK
-2024/03/25-09:44:11.613 935c Archiving E:/Data/worlds/loop/data/journal/000060.log: OK
-2024/03/25-09:44:11.641 935c Table #59: 8 entries OK
-2024/03/25-09:44:11.674 935c Table #61: 659 entries OK
-2024/03/25-09:44:11.675 935c Table #63: 40 entries OK
-2024/03/25-09:44:11.685 935c Archiving E:/Data/worlds/loop/data/journal/MANIFEST-000018: OK
-2024/03/25-09:44:11.689 935c Archiving E:/Data/worlds/loop/data/journal/MANIFEST-000056: OK
-2024/03/25-09:44:11.693 935c **** Repaired leveldb E:/Data/worlds/loop/data/journal; recovered 3 files; 2187833 bytes. Some data may have been lost. ****
+2024/03/25-09:44:11.725 935c Delete type=3 #1

@@ -1,7 +1,1 @@
-2024/03/25-09:44:10.843 6160 Log #20: 0 ops saved to Table #48 OK
-2024/03/25-09:44:10.845 6160 Archiving E:/Data/worlds/loop/data/combats/000020.log: OK
-2024/03/25-09:44:10.845 6160 Log #47: 0 ops saved to Table #49 OK
-2024/03/25-09:44:10.846 6160 Archiving E:/Data/worlds/loop/data/combats/000047.log: OK
-2024/03/25-09:44:10.849 6160 Archiving E:/Data/worlds/loop/data/combats/MANIFEST-000018: OK
-2024/03/25-09:44:10.851 6160 Archiving E:/Data/worlds/loop/data/combats/MANIFEST-000046: OK
-2024/03/25-09:44:10.858 6160 **** Repaired leveldb E:/Data/worlds/loop/data/combats; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2024/03/25-09:44:10.879 6160 Delete type=3 #1

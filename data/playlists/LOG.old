@@ -1,7 +1,1 @@
-2024/03/25-09:44:11.832 9780 Log #20: 0 ops saved to Table #48 OK
-2024/03/25-09:44:11.833 9780 Archiving E:/Data/worlds/loop/data/playlists/000020.log: OK
-2024/03/25-09:44:11.834 9780 Log #47: 0 ops saved to Table #49 OK
-2024/03/25-09:44:11.834 9780 Archiving E:/Data/worlds/loop/data/playlists/000047.log: OK
-2024/03/25-09:44:11.840 9780 Archiving E:/Data/worlds/loop/data/playlists/MANIFEST-000018: OK
-2024/03/25-09:44:11.840 9780 Archiving E:/Data/worlds/loop/data/playlists/MANIFEST-000046: OK
-2024/03/25-09:44:11.845 9780 **** Repaired leveldb E:/Data/worlds/loop/data/playlists; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2024/03/25-09:44:11.861 9780 Delete type=3 #1

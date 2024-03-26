@@ -1,12 +1,10 @@
-2024/03/25-09:44:12.231 935c Log #23: 0 ops saved to Table #70 OK
-2024/03/25-09:44:12.232 935c Archiving E:/Data/worlds/loop/data/settings/000023.log: OK
-2024/03/25-09:44:12.295 935c Log #69: 8 ops saved to Table #71 OK
-2024/03/25-09:44:12.296 935c Archiving E:/Data/worlds/loop/data/settings/000069.log: OK
-2024/03/25-09:44:12.319 935c Table #25: 7 entries OK
-2024/03/25-09:44:12.345 935c Table #38: 10 entries OK
-2024/03/25-09:44:12.348 935c Table #66: 14 entries OK
-2024/03/25-09:44:12.371 935c Table #68: 2 entries OK
-2024/03/25-09:44:12.373 935c Table #71: 8 entries OK
-2024/03/25-09:44:12.377 935c Archiving E:/Data/worlds/loop/data/settings/MANIFEST-000021: OK
-2024/03/25-09:44:12.378 935c Archiving E:/Data/worlds/loop/data/settings/MANIFEST-000067: OK
-2024/03/25-09:44:12.384 935c **** Repaired leveldb E:/Data/worlds/loop/data/settings; recovered 5 files; 13350 bytes. Some data may have been lost. ****
+2024/03/25-09:44:12.455 935c Delete type=3 #1
+2024/03/25-09:44:12.457 6acc Compacting 5@0 + 0@1 files
+2024/03/25-09:44:12.466 6acc Generated table #74@0: 26 keys, 8366 bytes
+2024/03/25-09:44:12.466 6acc Compacted 5@0 + 0@1 files => 8366 bytes
+2024/03/25-09:44:12.470 6acc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/03/25-09:44:12.471 6acc Delete type=2 #25
+2024/03/25-09:44:12.473 6acc Delete type=2 #38
+2024/03/25-09:44:12.474 6acc Delete type=2 #66
+2024/03/25-09:44:12.474 6acc Delete type=2 #68
+2024/03/25-09:44:12.474 6acc Delete type=2 #71
