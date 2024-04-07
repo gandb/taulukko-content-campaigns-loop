@@ -1,5 +1,3 @@
-2024/04/06-11:51:49.107 8048 Delete type=3 #1
-2024/04/06-11:59:42.010 abd0 Level-0 table #5: started
-2024/04/06-11:59:42.083 abd0 Level-0 table #5: 171849 bytes OK
-2024/04/06-11:59:42.092 abd0 Delete type=0 #3
-2024/04/06-11:59:42.094 abd0 Manual compaction at level-0 from '!adventures!f0QXzPZQHiyH8iSM' @ 72057594037927935 : 1 .. '!adventures!f0QXzPZQHiyH8iSM' @ 0 : 0; will stop at (end)
+2024/04/07-12:57:22.765 62a0 Recovering log #8
+2024/04/07-12:57:22.770 62a0 Delete type=0 #8
+2024/04/07-12:57:22.770 62a0 Delete type=3 #6
