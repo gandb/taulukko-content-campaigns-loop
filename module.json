@@ -20,7 +20,7 @@
     "packs": [
         {
             "name": "loop-fate",
-            "label": "Share Module Creatures",
+            "label": "Loop Adventure (FATE)",
             "path": "./packs/loop-fate",
             "type": "Adventure",
             "system": "fate-core-official"
