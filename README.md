@@ -34,7 +34,7 @@ O projeto LOOP é de código aberto e recebe contribuições da comunidade. Seja
 - Envie relatórios de bugs ou solicitações de recursos através do [rastreador de problemas do GitHub](https://github.com/your-username/timewarp-adventure/issues).
 - Contribua para o desenvolvimento de novo conteúdo.
 - Ajude a melhorar a documentação e os recursos disponíveis para jogadores e Mestres de Jogo.
-- Contribua financeiramente em : [Patreon Taulukko](patreon.com/taulukkovtt).
+- Contribua financeiramente em : [Patreon Taulukko](htpps://patreon.com/taulukkovtt).
 
 Juntos, podemos continuar a expandir e aprimorar a Aventura na Máquina do Tempo, criando experiências inesquecíveis para jogadores ao redor do mundo. Feliz viagem pelo tempo!
 
