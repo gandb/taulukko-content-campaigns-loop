@@ -29,12 +29,12 @@ Depois de instalar o módulo da Aventura na Máquina do Tempo, reúna seus compa
 
 ## Contribuindo
 
-O projeto Aventura na Máquina do Tempo é de código aberto e recebe contribuições da comunidade. Seja você um mestre experiente do Fate ou um novato nos RPGs de mesa, há muitas maneiras de se envolver:
+O projeto LOOP é de código aberto e recebe contribuições da comunidade. Seja você um mestre experiente do Fate ou um novato nos RPGs de mesa, há muitas maneiras de se envolver:
 
 - Envie relatórios de bugs ou solicitações de recursos através do [rastreador de problemas do GitHub](https://github.com/your-username/timewarp-adventure/issues).
 - Contribua para o desenvolvimento de novo conteúdo.
 - Ajude a melhorar a documentação e os recursos disponíveis para jogadores e Mestres de Jogo.
-- Contribua financeiramente em : (em construção site de doação)
+- Contribua financeiramente em : [Patreon Taulukko](https://patreon.com/taulukkovtt).
 
 Juntos, podemos continuar a expandir e aprimorar a Aventura na Máquina do Tempo, criando experiências inesquecíveis para jogadores ao redor do mundo. Feliz viagem pelo tempo!
 
