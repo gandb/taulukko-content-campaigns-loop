@@ -1,16 +1,14 @@
-2024/04/22-09:11:00.245 5ec0 Recovering log #111
-2024/04/22-09:11:00.248 5ec0 Level-0 table #113: started
-2024/04/22-09:11:00.269 5ec0 Level-0 table #113: 98423 bytes OK
-2024/04/22-09:11:00.274 5ec0 Delete type=0 #111
-2024/04/22-09:11:00.274 5ec0 Delete type=3 #110
-2024/04/22-09:31:39.377 1ee4 Level-0 table #116: started
-2024/04/22-09:31:39.377 1ee4 Level-0 table #116: 0 bytes OK
-2024/04/22-09:31:39.380 1ee4 Delete type=0 #114
-2024/04/22-09:31:39.382 1ee4 Manual compaction at level-0 from '!adventures!f0QXzPZQHiyH8iSM' @ 72057594037927935 : 1 .. '!adventures!f0QXzPZQHiyH8iSM' @ 0 : 0; will stop at '!adventures!f0QXzPZQHiyH8iSM' @ 9 : 1
-2024/04/22-09:31:39.382 1ee4 Compacting 1@0 + 1@1 files
-2024/04/22-09:31:39.403 1ee4 Generated table #117@0: 1 keys, 98423 bytes
-2024/04/22-09:31:39.403 1ee4 Compacted 1@0 + 1@1 files => 98423 bytes
-2024/04/22-09:31:39.406 1ee4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/04/22-09:31:39.406 1ee4 Delete type=2 #105
-2024/04/22-09:31:39.407 1ee4 Delete type=2 #113
-2024/04/22-09:31:39.408 1ee4 Manual compaction at level-0 from '!adventures!f0QXzPZQHiyH8iSM' @ 9 : 1 .. '!adventures!f0QXzPZQHiyH8iSM' @ 0 : 0; will stop at (end)
+2024/05/14-17:27:28.186 8ddc Recovering log #187
+2024/05/14-17:27:28.191 8ddc Delete type=0 #187
+2024/05/14-17:27:28.191 8ddc Delete type=3 #185
+2024/05/14-17:33:49.566 8684 Level-0 table #193: started
+2024/05/14-17:33:49.592 8684 Level-0 table #193: 101579 bytes OK
+2024/05/14-17:33:49.595 8684 Delete type=0 #191
+2024/05/14-17:33:49.597 8684 Manual compaction at level-0 from '!adventures!f0QXzPZQHiyH8iSM' @ 72057594037927935 : 1 .. '!adventures!f0QXzPZQHiyH8iSM' @ 0 : 0; will stop at '!adventures!f0QXzPZQHiyH8iSM' @ 20 : 1
+2024/05/14-17:33:49.597 8684 Compacting 1@0 + 1@1 files
+2024/05/14-17:33:49.618 8684 Generated table #194@0: 1 keys, 101579 bytes
+2024/05/14-17:33:49.619 8684 Compacted 1@0 + 1@1 files => 101579 bytes
+2024/05/14-17:33:49.620 8684 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/05/14-17:33:49.621 8684 Delete type=2 #189
+2024/05/14-17:33:49.623 8684 Delete type=2 #193
+2024/05/14-17:33:49.623 8684 Manual compaction at level-0 from '!adventures!f0QXzPZQHiyH8iSM' @ 20 : 1 .. '!adventures!f0QXzPZQHiyH8iSM' @ 0 : 0; will stop at (end)
