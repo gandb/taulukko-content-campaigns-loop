@@ -1,14 +1,23 @@
-2024/05/16-18:00:21.093 1888 Recovering log #197
-2024/05/16-18:00:21.097 1888 Delete type=0 #197
-2024/05/16-18:00:21.098 1888 Delete type=3 #195
-2024/05/16-18:04:27.107 6a80 Level-0 table #202: started
-2024/05/16-18:04:27.125 6a80 Level-0 table #202: 101566 bytes OK
-2024/05/16-18:04:27.126 6a80 Delete type=0 #200
-2024/05/16-18:04:27.131 6a80 Manual compaction at level-0 from '!adventures!f0QXzPZQHiyH8iSM' @ 72057594037927935 : 1 .. '!adventures!f0QXzPZQHiyH8iSM' @ 0 : 0; will stop at '!adventures!f0QXzPZQHiyH8iSM' @ 21 : 1
-2024/05/16-18:04:27.131 6a80 Compacting 1@0 + 1@1 files
-2024/05/16-18:04:27.155 6a80 Generated table #203@0: 1 keys, 101566 bytes
-2024/05/16-18:04:27.155 6a80 Compacted 1@0 + 1@1 files => 101566 bytes
-2024/05/16-18:04:27.156 6a80 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/05/16-18:04:27.157 6a80 Delete type=2 #194
-2024/05/16-18:04:27.157 6a80 Delete type=2 #202
-2024/05/16-18:04:27.158 6a80 Manual compaction at level-0 from '!adventures!f0QXzPZQHiyH8iSM' @ 21 : 1 .. '!adventures!f0QXzPZQHiyH8iSM' @ 0 : 0; will stop at (end)
+2024/05/17-13:11:08.987 5bc4 Delete type=3 #1
+2024/05/17-13:11:08.988 6cbc Compacting 14@0 + 0@1 files
+2024/05/17-13:11:09.020 6cbc Generated table #234@0: 1 keys, 101566 bytes
+2024/05/17-13:11:09.020 6cbc Compacted 14@0 + 0@1 files => 101566 bytes
+2024/05/17-13:11:09.023 6cbc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/05/17-13:11:09.023 6cbc Delete type=2 #125
+2024/05/17-13:11:09.023 6cbc Delete type=2 #131
+2024/05/17-13:11:09.024 6cbc Delete type=2 #134
+2024/05/17-13:11:09.024 6cbc Delete type=2 #143
+2024/05/17-13:11:09.024 6cbc Delete type=2 #150
+2024/05/17-13:11:09.024 6cbc Delete type=2 #159
+2024/05/17-13:11:09.024 6cbc Delete type=2 #170
+2024/05/17-13:11:09.025 6cbc Delete type=2 #194
+2024/05/17-13:11:09.025 6cbc Delete type=2 #203
+2024/05/17-13:11:09.027 6cbc Delete type=2 #214
+2024/05/17-13:11:09.027 6cbc Delete type=2 #223
+2024/05/17-13:11:09.027 6cbc Delete type=2 #224
+2024/05/17-13:11:09.028 6cbc Delete type=2 #225
+2024/05/17-13:11:09.029 6cbc Delete type=2 #228
+2024/05/17-13:28:13.259 6cbc Level-0 table #236: started
+2024/05/17-13:28:13.259 6cbc Level-0 table #236: 0 bytes OK
+2024/05/17-13:28:13.261 6cbc Delete type=0 #233
+2024/05/17-13:28:13.264 6cbc Manual compaction at level-0 from '!adventures!f0QXzPZQHiyH8iSM' @ 72057594037927935 : 1 .. '!adventures!f0QXzPZQHiyH8iSM' @ 0 : 0; will stop at (end)

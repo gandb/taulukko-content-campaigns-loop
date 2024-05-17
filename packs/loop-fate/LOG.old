@@ -1,7 +1,42 @@
-2024/05/14-17:35:04.814 3c08 Recovering log #192
-2024/05/14-17:35:04.822 3c08 Delete type=0 #192
-2024/05/14-17:35:04.823 3c08 Delete type=3 #190
-2024/05/14-17:35:39.384 8684 Level-0 table #198: started
-2024/05/14-17:35:39.384 8684 Level-0 table #198: 0 bytes OK
-2024/05/14-17:35:39.385 8684 Delete type=0 #196
-2024/05/14-17:35:39.393 8684 Manual compaction at level-0 from '!adventures!f0QXzPZQHiyH8iSM' @ 72057594037927935 : 1 .. '!adventures!f0QXzPZQHiyH8iSM' @ 0 : 0; will stop at (end)
+2024/05/17-13:11:08.745 5bc4 Log #137: 1 ops saved to Table #223 OK
+2024/05/17-13:11:08.746 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/000137.log: OK
+2024/05/17-13:11:08.777 5bc4 Log #147: 1 ops saved to Table #224 OK
+2024/05/17-13:11:08.777 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/000147.log: OK
+2024/05/17-13:11:08.808 5bc4 Log #156: 1 ops saved to Table #225 OK
+2024/05/17-13:11:08.809 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/000156.log: OK
+2024/05/17-13:11:08.809 5bc4 Log #161: 0 ops saved to Table #226 OK
+2024/05/17-13:11:08.809 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/000161.log: OK
+2024/05/17-13:11:08.809 5bc4 Log #176: 0 ops saved to Table #227 OK
+2024/05/17-13:11:08.809 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/000176.log: OK
+2024/05/17-13:11:08.847 5bc4 Log #186: 1 ops saved to Table #228 OK
+2024/05/17-13:11:08.847 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/000186.log: OK
+2024/05/17-13:11:08.847 5bc4 Log #197: 0 ops saved to Table #229 OK
+2024/05/17-13:11:08.847 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/000197.log: OK
+2024/05/17-13:11:08.847 5bc4 Log #201: 0 ops saved to Table #230 OK
+2024/05/17-13:11:08.848 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/000201.log: OK
+2024/05/17-13:11:08.848 5bc4 Log #222: 0 ops saved to Table #231 OK
+2024/05/17-13:11:08.848 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/000222.log: OK
+2024/05/17-13:11:08.858 5bc4 Table #125: 1 entries OK
+2024/05/17-13:11:08.874 5bc4 Table #131: 2 entries OK
+2024/05/17-13:11:08.885 5bc4 Table #134: 1 entries OK
+2024/05/17-13:11:08.894 5bc4 Table #143: 1 entries OK
+2024/05/17-13:11:08.905 5bc4 Table #150: 1 entries OK
+2024/05/17-13:11:08.915 5bc4 Table #159: 1 entries OK
+2024/05/17-13:11:08.926 5bc4 Table #170: 1 entries OK
+2024/05/17-13:11:08.937 5bc4 Table #194: 1 entries OK
+2024/05/17-13:11:08.947 5bc4 Table #203: 1 entries OK
+2024/05/17-13:11:08.955 5bc4 Table #214: 1 entries OK
+2024/05/17-13:11:08.957 5bc4 Table #223: 1 entries OK
+2024/05/17-13:11:08.957 5bc4 Table #224: 1 entries OK
+2024/05/17-13:11:08.957 5bc4 Table #225: 1 entries OK
+2024/05/17-13:11:08.958 5bc4 Table #228: 1 entries OK
+2024/05/17-13:11:08.959 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/MANIFEST-000136: OK
+2024/05/17-13:11:08.959 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/MANIFEST-000146: OK
+2024/05/17-13:11:08.960 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/MANIFEST-000155: OK
+2024/05/17-13:11:08.960 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/MANIFEST-000160: OK
+2024/05/17-13:11:08.962 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/MANIFEST-000175: OK
+2024/05/17-13:11:08.962 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/MANIFEST-000185: OK
+2024/05/17-13:11:08.964 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/MANIFEST-000195: OK
+2024/05/17-13:11:08.964 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/MANIFEST-000199: OK
+2024/05/17-13:11:08.966 5bc4 Archiving E:\Data\modules\loop-fate\packs\loop-fate/MANIFEST-000221: OK
+2024/05/17-13:11:08.970 5bc4 **** Repaired leveldb E:\Data\modules\loop-fate\packs\loop-fate; recovered 14 files; 1498711 bytes. Some data may have been lost. ****

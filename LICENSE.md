@@ -18,15 +18,25 @@ O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU
 
 FATE
 
-A aventura LOOP utiliza-se do sistema FATE Básico conforme a licença abaixo:
+A aventura LOOP utiliza-se do sistema FATE Condensed em Inglês mas também pode ser jogado com o FATE Básico em Português (Pré Venda). Ambas tem a seguinte licença:
 
-© 2018 Evil Hat Productions, Coletivo Solar e Fábio Silva
+Português:
 
-Versão 1.0
+Este trabalho é baseado em Fate Core System e Fate Accelerated Edition (encontrado em https://www.faterpg.com/ ), produtos da Evil Hat Productions, LLC, desenvolvidos, de autoria e editados por Leonard Balsera, Brian Engard, Jeremy Keller , Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks e Rob Donoghue, e licenciado para nosso uso sob a licença Creative Commons Attribution 3.0 Unported (https://creativecommons.org/licenses/by/3.0/ ).
 
-Este é o Documento de Referência do Sistema (System Reference Document) de Fate Acelerado para uso com licença Creative Commons. A seguinte atribuição deve ser fornecida em seu texto, onde você indica seus créditos (copyright), em tamanho equivalente ao seu texto de créditos (copyright):
+e
 
-Esta obra é baseada em Fate Sistema Básico, encontrado em www.solarentretenimento.com.br, traduzido, desenvolvido e editado por Alain Valchera, Fábio Silva, Fernando del Angeles, Gabriel Faedrich, Luís Henrique Fonseca e Matheus Funfas e licenciado para uso sob licença Creative Commons Atribuição 4.0 Internacional (http://creativecommons.org/licenses/by/4.0/). Versão original: Fate Core System © Evil Hat Productions, LLC. Documento de Referência do Sistema produzido por Fábio Emílio Costa, Fábio Silva e Jaime Rangel de S. Junior.
+Este trabalho é baseado em Fate Condensed (encontrado em https://www.faterpg.com/ ), um produto da Evil Hat Productions, LLC, desenvolvido, de autoria e editado por PK Sullivan, Lara Turner, Fred Hicks, Richard Bellingham, Robert Hanz e Sophie Lagacé, e licenciado para nosso uso sob a licença Creative Commons Attribution 3.0 Unported. .
+
+English:
+
+This work is based on Fate Core System and Fate Accelerated Edition (found at https://www.faterpg.com/), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (https://creativecommons.org/licenses/by/3.0/).
+
+and
+
+This work is based on Fate Condensed (found at https://www.faterpg.com/), a product of Evil Hat Productions, LLC, developed, authored, and edited by PK Sullivan, Lara Turner, Fred Hicks, Richard Bellingham, Robert Hanz, and Sophie Lagacé, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (https://creativecommons.org/licenses/by/3.0/)..
+
+
 
 ---
 
@@ -34,14 +44,14 @@ IMAGENS
 
 Todas as imagens utilizadas neste projeto estão liberadas sob a permissão:
 
-Conjunto de Imagens para o Jogo LOOP - FATE © 2024 por Edson Vicente Carli Junior está sob a licença CC BY-NC-ND 4.0
+Conjunto de Imagens para o Jogo LOOP - FATE © 2024 por Edson Vicente Carli Junior está sob a licença CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
 
 
 Quase todas as imagens foram geradas por inteligência artificial e detenho os seus direitos.
 
 Os mapas foram gerados utilizando ferramenta específica para isto e também detenho os direitos.
 
-Simplificando, desde que não seja para uso comercial e você atribua os direitos à minha pessoa, pode modificar , alterar e usar estas imagens como lhe convir.
+Simplificando, desde que não seja para uso comercial e você atribua os direitos à minha pessoa, pode modificar , alterar e usar estas imagens como desejar.
 
 
 --- 
