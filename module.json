@@ -3,7 +3,7 @@
     "name": "loop-fate",
     "title": "Loop (FATE)",
     "description": "Três pessoas, três épocas, um destino.",
-    "version": "V.1.8.1",
+    "version": "V.1.9.1",
     "authors": [
         {
             "name": "Edson Vicente Carli Junior",
@@ -11,7 +11,7 @@
             "url": "https://github.com/gandb/taulukko-content-campaigns-loop"
         }
     ],
-    "minimumCoreVersion": "12.330",
+    "minimumCoreVersion": "12.331",
     "compatibleCoreVersion": "12",
     "compatibility": {
         "minimum": "11",
