@@ -1,7 +1,93 @@
-2025/01/14-06:45:58.807 6a10 Recovering log #367
-2025/01/14-06:45:58.810 6a10 Delete type=0 #367
-2025/01/14-06:45:58.810 6a10 Delete type=3 #365
-2025/01/14-06:46:55.375 6a2c Level-0 table #373: started
-2025/01/14-06:46:55.376 6a2c Level-0 table #373: 0 bytes OK
-2025/01/14-06:46:55.378 6a2c Delete type=0 #371
-2025/01/14-06:46:55.378 6a2c Manual compaction at level-0 from '!adventures!f0QXzPZQHiyH8iSM' @ 72057594037927935 : 1 .. '!adventures!f0QXzPZQHiyH8iSM' @ 0 : 0; will stop at (end)
+2025/01/15-13:43:29.562 1fe0 Recovering log #372
+2025/01/15-13:43:29.565 1fe0 Delete type=2 #125
+2025/01/15-13:43:29.565 1fe0 Delete type=2 #131
+2025/01/15-13:43:29.566 1fe0 Delete type=2 #134
+2025/01/15-13:43:29.566 1fe0 Delete type=0 #137
+2025/01/15-13:43:29.566 1fe0 Delete type=2 #143
+2025/01/15-13:43:29.566 1fe0 Delete type=0 #147
+2025/01/15-13:43:29.566 1fe0 Delete type=2 #150
+2025/01/15-13:43:29.566 1fe0 Delete type=0 #156
+2025/01/15-13:43:29.567 1fe0 Delete type=2 #159
+2025/01/15-13:43:29.567 1fe0 Delete type=0 #161
+2025/01/15-13:43:29.567 1fe0 Delete type=2 #170
+2025/01/15-13:43:29.567 1fe0 Delete type=0 #176
+2025/01/15-13:43:29.567 1fe0 Delete type=0 #186
+2025/01/15-13:43:29.567 1fe0 Delete type=2 #194
+2025/01/15-13:43:29.567 1fe0 Delete type=0 #197
+2025/01/15-13:43:29.567 1fe0 Delete type=0 #201
+2025/01/15-13:43:29.568 1fe0 Delete type=2 #203
+2025/01/15-13:43:29.568 1fe0 Delete type=2 #214
+2025/01/15-13:43:29.568 1fe0 Delete type=0 #222
+2025/01/15-13:43:29.568 1fe0 Delete type=2 #234
+2025/01/15-13:43:29.568 1fe0 Delete type=0 #235
+2025/01/15-13:43:29.568 1fe0 Delete type=0 #238
+2025/01/15-13:43:29.568 1fe0 Delete type=2 #244
+2025/01/15-13:43:29.568 1fe0 Delete type=0 #251
+2025/01/15-13:43:29.568 1fe0 Delete type=0 #257
+2025/01/15-13:43:29.568 1fe0 Delete type=0 #265
+2025/01/15-13:43:29.568 1fe0 Delete type=2 #267
+2025/01/15-13:43:29.568 1fe0 Delete type=0 #278
+2025/01/15-13:43:29.568 1fe0 Delete type=0 #285
+2025/01/15-13:43:29.569 1fe0 Delete type=2 #287
+2025/01/15-13:43:29.569 1fe0 Delete type=0 #288
+2025/01/15-13:43:29.569 1fe0 Delete type=2 #293
+2025/01/15-13:43:29.569 1fe0 Delete type=0 #304
+2025/01/15-13:43:29.569 1fe0 Delete type=0 #308
+2025/01/15-13:43:29.569 1fe0 Delete type=0 #312
+2025/01/15-13:43:29.569 1fe0 Delete type=2 #314
+2025/01/15-13:43:29.569 1fe0 Delete type=2 #319
+2025/01/15-13:43:29.569 1fe0 Delete type=0 #322
+2025/01/15-13:43:29.569 1fe0 Delete type=0 #326
+2025/01/15-13:43:29.569 1fe0 Delete type=2 #328
+2025/01/15-13:43:29.570 1fe0 Delete type=0 #331
+2025/01/15-13:43:29.570 1fe0 Delete type=2 #333
+2025/01/15-13:43:29.570 1fe0 Delete type=0 #335
+2025/01/15-13:43:29.570 1fe0 Delete type=0 #336
+2025/01/15-13:43:29.570 1fe0 Delete type=0 #340
+2025/01/15-13:43:29.570 1fe0 Delete type=0 #343
+2025/01/15-13:43:29.570 1fe0 Delete type=0 #344
+2025/01/15-13:43:29.570 1fe0 Delete type=2 #346
+2025/01/15-13:43:29.570 1fe0 Delete type=0 #349
+2025/01/15-13:43:29.570 1fe0 Delete type=2 #351
+2025/01/15-13:43:29.570 1fe0 Delete type=0 #359
+2025/01/15-13:43:29.570 1fe0 Delete type=0 #372
+2025/01/15-13:43:29.571 1fe0 Delete type=3 #136
+2025/01/15-13:43:29.571 1fe0 Delete type=3 #146
+2025/01/15-13:43:29.571 1fe0 Delete type=3 #155
+2025/01/15-13:43:29.571 1fe0 Delete type=3 #160
+2025/01/15-13:43:29.571 1fe0 Delete type=3 #175
+2025/01/15-13:43:29.571 1fe0 Delete type=3 #185
+2025/01/15-13:43:29.571 1fe0 Delete type=3 #195
+2025/01/15-13:43:29.571 1fe0 Delete type=3 #199
+2025/01/15-13:43:29.571 1fe0 Delete type=3 #221
+2025/01/15-13:43:29.571 1fe0 Delete type=3 #232
+2025/01/15-13:43:29.571 1fe0 Delete type=3 #237
+2025/01/15-13:43:29.571 1fe0 Delete type=3 #249
+2025/01/15-13:43:29.572 1fe0 Delete type=3 #255
+2025/01/15-13:43:29.572 1fe0 Delete type=3 #263
+2025/01/15-13:43:29.572 1fe0 Delete type=3 #276
+2025/01/15-13:43:29.572 1fe0 Delete type=3 #284
+2025/01/15-13:43:29.572 1fe0 Delete type=3 #286
+2025/01/15-13:43:29.572 1fe0 Delete type=3 #302
+2025/01/15-13:43:29.572 1fe0 Delete type=3 #306
+2025/01/15-13:43:29.572 1fe0 Delete type=3 #310
+2025/01/15-13:43:29.572 1fe0 Delete type=3 #320
+2025/01/15-13:43:29.572 1fe0 Delete type=3 #324
+2025/01/15-13:43:29.572 1fe0 Delete type=3 #329
+2025/01/15-13:43:29.572 1fe0 Delete type=3 #334
+2025/01/15-13:43:29.572 1fe0 Delete type=3 #338
+2025/01/15-13:43:29.573 1fe0 Delete type=3 #342
+2025/01/15-13:43:29.573 1fe0 Delete type=3 #347
+2025/01/15-13:43:29.573 1fe0 Delete type=3 #358
+2025/01/15-13:43:29.573 1fe0 Delete type=3 #370
+2025/01/15-13:45:10.781 2210 Level-0 table #377: started
+2025/01/15-13:45:10.798 2210 Level-0 table #377: 141597 bytes OK
+2025/01/15-13:45:10.799 2210 Delete type=0 #375
+2025/01/15-13:45:10.812 2210 Manual compaction at level-0 from '!adventures!f0QXzPZQHiyH8iSM' @ 72057594037927935 : 1 .. '!adventures!f0QXzPZQHiyH8iSM' @ 0 : 0; will stop at '!adventures!f0QXzPZQHiyH8iSM' @ 33 : 1
+2025/01/15-13:45:10.812 2210 Compacting 1@0 + 1@1 files
+2025/01/15-13:45:10.833 2210 Generated table #378@0: 1 keys, 141597 bytes
+2025/01/15-13:45:10.833 2210 Compacted 1@0 + 1@1 files => 141597 bytes
+2025/01/15-13:45:10.834 2210 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/01/15-13:45:10.834 2210 Delete type=2 #369
+2025/01/15-13:45:10.834 2210 Delete type=2 #377
+2025/01/15-13:45:10.839 2210 Manual compaction at level-0 from '!adventures!f0QXzPZQHiyH8iSM' @ 33 : 1 .. '!adventures!f0QXzPZQHiyH8iSM' @ 0 : 0; will stop at (end)
